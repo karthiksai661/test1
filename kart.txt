@@ -2,3 +2,4 @@ hi this file is created for testing kar file
 this is the edit made after 1st commit
 this is to test with editor 
 this is to test gitkraken
+to test amend 
